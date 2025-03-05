@@ -28,4 +28,4 @@ A simple Python project to generate a random password based on user-defined leng
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/Maahirrrr/Password-Generator-in-Python.git
